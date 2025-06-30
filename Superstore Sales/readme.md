@@ -82,7 +82,7 @@ The data was sourced from multiple Excel and CSV files, categorized by regions:
 
 
 
-Final dashboard file: `Superstore\_sales\_Dashboard.twb`  
+ 
 
 Dashboard screenshot: `Superstore\_sales\_dashboard.png`
 
@@ -198,11 +198,11 @@ Superstore Sales/
 
 
 
-1\. Open `Superstore\_sales\_Dashboard.twb` in \*\*Tableau Desktop\*\*.
 
-2\. Use filters like \*Region\*, \*Ship Mode\*, \*Return Status\*, and \*Approver\* to explore the visuals interactively.
 
-3\. Refer to the `.png` for a static snapshot of the final output.
+1\. Use filters like \*Region\*, \*Ship Mode\*, \*Return Status\*, and \*Approver\* to explore the visuals interactively.
+
+2\. Refer to the `.png` for a static snapshot of the final output.
 
 
 
