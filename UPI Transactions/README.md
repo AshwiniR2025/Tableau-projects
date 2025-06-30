@@ -1,4 +1,4 @@
-\# 📊 UPI Transactions Dashboard (Tableau)
+# 📊 UPI Transactions Dashboard (Tableau)
 
 
 
@@ -6,7 +6,7 @@ This Tableau dashboard analyzes UPI transaction trends by city, age group, bank,
 
 
 
-\## Files Included
+## Files Included
 
 
 
@@ -18,7 +18,7 @@ This Tableau dashboard analyzes UPI transaction trends by city, age group, bank,
 
 
 
-\## Visuals
+## Visuals
 
 
 
@@ -32,7 +32,7 @@ This Tableau dashboard analyzes UPI transaction trends by city, age group, bank,
 
 
 
-\## Tools Used
+## Tools Used
 
 
 
