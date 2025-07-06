@@ -43,7 +43,6 @@ This repository showcases a collection of data visualization projects created us
 
 - Tableau Desktop
 - Tableau Prep Builder
-- Excel (for cleaning)
 - CSV/Excel datasets
 
 ---
